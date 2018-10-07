@@ -1,0 +1,11 @@
+framework module XCTestExtensions {
+  umbrella header "XCTestExtensions.h"
+
+  export *
+  module * { export * }
+}
+
+module XCTestExtensions.Swift {
+    header "XCTestExtensions-Swift.h"
+    requires objc
+}

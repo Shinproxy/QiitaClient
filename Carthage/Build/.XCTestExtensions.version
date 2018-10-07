@@ -1,0 +1,9 @@
+{
+  "commitish" : "v0.6",
+  "iOS" : [
+    {
+      "name" : "XCTestExtensions",
+      "hash" : "df4bf16a732ab66e14855dc623e6a2c9764d882cc94d1c3e9e90b5a20f2d6a13"
+    }
+  ]
+}
